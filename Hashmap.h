@@ -97,4 +97,5 @@ public:
 	 *  tom => 1
 	 */
 	string toSortedString() const;
+	int& at(string name);
 };
